@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "AB3CD",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "quantity": 50
+    },
+    {
+      "id": "XY7ZP",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 499.99,
+      "quantity": 100
+    },
+    {
+      "id": "LMN42",
+      "name": "Chair",
+      "category": "Furniture",
+      "price": 49.99,
+      "quantity": 200
+    },
+    {
+      "id": "PQR8F",
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 79.99,
+      "quantity": 75
+    },
+    {
+      "id": "XYZ15",
+      "name": "Bookshelf",
+      "category": "Furniture",
+      "price": 129.99,
+      "quantity": 30
+    }
+  ]
+}
